@@ -12,6 +12,10 @@ type SessionRestorer struct{}
 
 func (SessionRestorer) RestoreSession(storage map[string]string) (cchat.Session, error) {
 	cli, err := gotrix.New(storage["homeserver"])
+	if err != nil {
+		return nil, err
+	}
+
 	// TODO: Fix this when there's a better API.
 	cli.UserID = matrix.UserID(storage["userID"])
 	cli.AccessToken = storage["accessToken"]

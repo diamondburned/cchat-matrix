@@ -1,10 +1,16 @@
 github.com/chanbakjsd/gotrix v0.1.0 h1:zaaMqfmfP+aKyBFTP8tXgnwTlRmm2OZLodNZxPqFZJw=
 github.com/chanbakjsd/gotrix v0.1.0/go.mod h1:tHgqHzAHPNJ8vm/S6lWJfyOASWq5fR00IQbCYSd7DR8=
+github.com/dave/jennifer v1.4.1 h1:XyqG6cn5RQsTj3qlWQTKlRGAyrTcsk1kUmWdZBzRjDw=
 github.com/dave/jennifer v1.4.1/go.mod h1:7jEdnm+qBcxl8PC0zyp7vxcpSRnzXSt9r39tpTVGlwA=
 github.com/diamondburned/cchat v0.3.11 h1:C1f9Tp7Kz3t+T1SlepL1RS7b/kACAKWAIZXAgJEpCHg=
 github.com/diamondburned/cchat v0.3.11/go.mod h1:IlMtF+XIvAJh0GL/2yFdf0/34w+Hdy5A1GgvSwAXtQI=
+github.com/diamondburned/cchat v0.6.4 h1:CFh6eFNE+SQ7IOjb1QDcgTgv/I7W2k6E7d3n8qJ+ZrQ=
+github.com/diamondburned/cchat v0.6.4/go.mod h1:IlMtF+XIvAJh0GL/2yFdf0/34w+Hdy5A1GgvSwAXtQI=
+github.com/diamondburned/gotrix v0.1.2-0.20210501191812-e6c478398b4a h1:eWtObFmnjcbqvL0s4k+rwG6ZCdZMDFtNCju6Jfn5Nu4=
+github.com/diamondburned/gotrix v0.1.2-0.20210501191812-e6c478398b4a/go.mod h1:tHgqHzAHPNJ8vm/S6lWJfyOASWq5fR00IQbCYSd7DR8=
 github.com/fatih/color v1.10.0 h1:s36xzo75JdqLaaWoiEHk767eHiwo0598uUxyfiPkDsg=
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
+github.com/go-test/deep v1.0.7 h1:/VSMRlnY/JSyqxQUzQLKVMAskpY/NZKFA5j2P+0pP2M=
 github.com/go-test/deep v1.0.7/go.mod h1:QV8Hv/iy04NyLBxAdO9njL0iVPN1S4d/A3NVv1V36o8=
 github.com/mattn/go-colorable v0.1.8 h1:c1ghPdyEDarC70ftn0y+A/Ee++9zz8ljHG1b13eJ0s8=
 github.com/mattn/go-colorable v0.1.8/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
